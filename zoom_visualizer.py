@@ -1,4 +1,4 @@
-#tracks zoom's stock price over a span of a year 
+#Tracks zoom's stock price over a span of a year 
 
 from pandas_datareader import data
 from pandas_datareader._utils import RemoteDataError
